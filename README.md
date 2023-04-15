@@ -1,5 +1,5 @@
-# Text-input-and-validation
- textvalidation
+# About
+Text Input and Validation
 
 # TrailHead Profile URL
   <ul>
